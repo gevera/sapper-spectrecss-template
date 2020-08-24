@@ -6,23 +6,19 @@ A [Sapper](https://github.com/sveltejs/sapper) and [Spectre.css](https://picture
 ## Getting started
 
 
-### Using `degit`
-
-[`degit`](https://github.com/Rich-Harris/degit) is a scaffolding tool that lets you create a directory from a branch in a repository. Use either the `rollup` or `webpack` branch in `sapper-template`:
-
+Clone the repository and install dependencies
 ```bash
-# for Rollup
-npx degit "gevera/sapper-spectrecss-template#rollup" my-app
+git clone https://github.com/gevera/sapper-spectrecss-template
+cd sapper-spectrecss-template
+npm i
 ```
 
 
 ### Running the project
 
-Once you get the code, you can install dependencies and run the project in development mode with:
+Once you have installed the dependencies you can run the project in development mode with:
 
 ```bash
-cd my-app
-npm install # or yarn
 npm run dev
 ```
 
@@ -32,7 +28,8 @@ Consult [sapper.svelte.dev](https://sapper.svelte.dev) for help getting started.
 See [Spectre.css](https://picturepan2.github.io/spectre/) for CSS
 
 ### Customize Spectre theme
-In `/static/styles/` folder edit theme.scss
+In `/static/styles/` folder edit `theme.scss` file
+
 Add Spectre.css vriables and tweak them to your liking
 
 #### Enjoy!
