@@ -1,6 +1,6 @@
 {
-  "name": "TODO",
-  "description": "TODO",
+  "name": "sapper-spectrecss-template",
+  "description": "A light and beautiful template for Sapper with Spectre.css",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
