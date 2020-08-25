@@ -32,5 +32,7 @@ In `/static/styles/` folder edit `theme.scss` file
 
 Add Spectre.css vriables and tweak them to your liking
 
+[Link](https://sapper-spectrecss-template.surge.sh) to the live template example
+
 #### Enjoy!
 
