@@ -14,7 +14,7 @@
 
     <p class="text-center">
       <strong>
-        Try editing this file (src/routes/index.svelte) to test live reloading.
+        Try editing (src/routes/index.svelte or static/styles/theme.scss) to test live reloading.
       </strong>
     </p>
   </div>
